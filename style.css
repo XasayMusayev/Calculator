@@ -1,0 +1,48 @@
+.first{
+    display: flex;
+}
+.third{
+    text-align: center;
+}
+.third h1{
+    color: darkred;
+}
+.calc{
+margin: 150px 0 0 150px;
+}
+
+input{
+    padding: 20px;
+    margin-bottom: 25px;
+    border-color: red;
+    display: block;
+}
+
+button{
+    border-color: green;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 240px 0 0 150px;
+}
+
+.second{
+    text-align: center;
+    margin: 150px 0 0 190px;
+
+
+}
+
+.second p{
+    color: red;
+    font-size: 20px;
+}
+.second h2{
+    color: green;
+    font-size: 50px;
+}
+
+.manat{
+    width: 100%;
+    margin-left: 100%;
+    margin-top: 70%;
+}
